@@ -1,3 +1,4 @@
 Salesforce CRM Full Implementation
 
-![proj_1](https://github.com/user-attachments/assets/8ca48340-8be8-4b65-9d8f-10cccfa1d08f)
+![SF Full Implementation](https://github.com/user-attachments/assets/3d94a591-f4d7-4cac-a1b3-50170e30f7b2)
+
